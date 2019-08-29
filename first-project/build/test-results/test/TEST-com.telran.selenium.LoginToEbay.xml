@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.telran.selenium.LoginToEbay" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-28T15:55:21" hostname="LAPTOP-1IHGM6O5" time="12.726">
+<testsuite name="com.telran.selenium.LoginToEbay" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-29T05:53:21" hostname="LAPTOP-1IHGM6O5" time="10.225">
   <properties/>
-  <testcase name="logInTest" classname="com.telran.selenium.LoginToEbay" time="12.726"/>
+  <testcase name="logInTest" classname="com.telran.selenium.LoginToEbay" time="10.225"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 4245
+  <system-err><![CDATA[Starting ChromeDriver 76.0.3809.68 (420c9498db8ce8fcd190a954d51297672c1515d5-refs/branch-heads/3809@{#864}) on port 46774
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-??? 28, 2019 6:55:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+??? 29, 2019 8:53:21 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
